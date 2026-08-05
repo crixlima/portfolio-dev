@@ -1,0 +1,30 @@
+.tech-list {
+    display: flex;
+    justify-content: center;
+
+    margin-top: 5rem;
+
+    gap:1rem;
+}                                                        
+
+span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: var(--color-gray-400);
+  border-radius: 999px;
+  padding: 0.5rem 1rem;
+
+  font: var(--text-md);
+ 
+  gap: 0.5rem;
+}
+
+.arrow {
+    display:flex ;
+    justify-content: center;
+
+    margin-top: 5.87rem;
+ 
+}

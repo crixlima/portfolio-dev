@@ -1,0 +1,50 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+:root {
+   --font-asap: 'Asap', sans-serif;
+   --font-inconsolata: 'Inconsolata', monospace;
+   --font-maven: 'Maven Pro', sans-serif;
+
+   --title-lg: 700 3.5rem/1.2 var(--font-asap);
+   --title-md: 700 1.5rem/1.2 var(--font-asap);
+   --title-sm: 700 1rem/1.2 var(--font-asap);
+
+   --subtitle: 400 1.25rem/1.2 var(--font-inconsolata);
+
+   --text-md: 400 1rem/1.4 var(--font-maven);
+   --text-sm: 400 0.875rem/1.4 var(--font-maven);
+
+
+   
+   --color-red: #E3646E;
+   --color-purple: #BB72E9;
+
+
+   --color-gray-100: #E2E4E9;
+   --color-gray-200: #C0C4CE;
+   --color-gray-300: #878EA1;
+   --color-gray-400: #292C34;
+   --color-gray-500: #16181D;
+   --color-gray-600: #0D0E11;
+
+
+}
+
+
+body {
+
+      background-color: var(--color-gray-600);
+      font-family: var(--font-asap);
+      color: var(--color-gray-100);
+      
+      small  {
+        color: var(--color-red);
+        font-weight: normal;      
+        font: var(--subtitle);
+        margin-bottom: 0.5rem;
+      }
+}
+
