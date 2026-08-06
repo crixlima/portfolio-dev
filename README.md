@@ -8,7 +8,7 @@ Este projeto foi desenvolvido para apresentar um pouco sobre mim, minhas habilid
 ## 🚀 Demonstração
 
 🔗 **Acesse o projeto:**  
-> Adicione aqui o link do GitHub Pages ou da Vercel quando publicar.
+> (https://crixlima.github.io/portfolio-dev/)
 
 ## 📸 Preview
 
