@@ -1,6 +1,6 @@
 💻 Portfólio - Cristiane Borges
 
-![Preview do Portfólio](./assets/images/preview.png)
+
 Bem-vindo(a) ao meu portfólio de desenvolvimento Front-end!
 
 Este projeto foi desenvolvido para apresentar um pouco sobre mim, minhas habilidades e alguns dos projetos que desenvolvi durante meus estudos e prática na área de desenvolvimento web.
