@@ -12,7 +12,7 @@ Este projeto foi desenvolvido para apresentar um pouco sobre mim, minhas habilid
 
 ## 📸 Preview
 
-> Adicione um print da página inicial do portfólio.
+> ![Preview do Portfólio](.assets/previa.png)
 
 
 
@@ -54,6 +54,6 @@ Sou Desenvolvedora Front-end em formação, apaixonada por criar interfaces mode
 
 - LinkedIn: https://www.linkedin.com/in/seu-link
 - GitHub: https://github.com/crixlima
-- E-mail: seuemail@email.com
+- E-mail: lima.cristianeborges@gmail.com
 
 ---
