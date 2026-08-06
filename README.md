@@ -12,7 +12,7 @@ Este projeto foi desenvolvido para apresentar um pouco sobre mim, minhas habilid
 
 ## 📸 Preview
 
-> ![Preview do Portfólio](.assets/previa.png)
+> ![Preview do Portfólio](..assets/previa.png)
 
 
 
